@@ -61,5 +61,9 @@ h1,h2,h3. {
 	 color: white;
 	 text-align: right;
 }	 
-
+<style>
+body {
+  background-image: url(http://feelgrafix.com/data/background/background-11.jpg);
+}
+</style>
 
