@@ -15,10 +15,10 @@ h1,h2,h3. {
 	
 
 #container{
- 	<style>
-body {
+ 
+        background-color: white ;
   
-</style>
+
 	width: 800px;
 	margin-left: auto;
     margin-right: auto;	
